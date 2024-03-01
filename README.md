@@ -6,4 +6,4 @@ Ollama is a CLI tool that lets us run open-source LLMs on our computers for free
 
 Feel free to check the below video to understand the code and set up Chatbot on your computer.
 
-* [Streamlit Chatbot](https://www.youtube.com/@CoderzColumn)
+* [Streamlit Chatbot](https://www.youtube.com/watch?v=gC5PxV-pfBU)
